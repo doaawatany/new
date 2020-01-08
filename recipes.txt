@@ -5,7 +5,9 @@ pasta
 chicken
 
 choclatw
-
+ beans
+ banana
+ pizza
 
 
 thank you
